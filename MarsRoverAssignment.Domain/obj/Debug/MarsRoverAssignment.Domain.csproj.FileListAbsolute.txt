@@ -1,0 +1,6 @@
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.Domain\bin\Debug\MarsRoverAssignment.Domain.dll
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.Domain\bin\Debug\MarsRoverAssignment.Domain.pdb
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.Domain\bin\Debug\Ensure.That.dll
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.Domain\obj\Debug\MarsRoverAssignment.Domain.csprojResolveAssemblyReference.cache
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.Domain\obj\Debug\MarsRoverAssignment.Domain.dll
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.Domain\obj\Debug\MarsRoverAssignment.Domain.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AA4367DD-32A1-4DE1-BA3D-D0EF053BCF14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{13B9F750-2E3A-4739-93B8-301F72BB9EAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverAssignment.Domain", "MarsRoverAssignment.Domain\MarsRoverAssignment.Domain.csproj", "{D9C7C33C-4FD6-49D7-9594-F7852C315D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverAssignment.UI", "MarsRoverAssignment.UI\MarsRoverAssignment.UI.csproj", "{DDFBF119-5343-4CAF-8FED-C05EF9B3D638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverAssignment.Test", "MarsRoverAssignment.Test\MarsRoverAssignment.Test.csproj", "{500AB5DD-C1B2-429F-A3FD-10D6A0234732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C7C33C-4FD6-49D7-9594-F7852C315D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C7C33C-4FD6-49D7-9594-F7852C315D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C7C33C-4FD6-49D7-9594-F7852C315D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C7C33C-4FD6-49D7-9594-F7852C315D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFBF119-5343-4CAF-8FED-C05EF9B3D638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFBF119-5343-4CAF-8FED-C05EF9B3D638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFBF119-5343-4CAF-8FED-C05EF9B3D638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFBF119-5343-4CAF-8FED-C05EF9B3D638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500AB5DD-C1B2-429F-A3FD-10D6A0234732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500AB5DD-C1B2-429F-A3FD-10D6A0234732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500AB5DD-C1B2-429F-A3FD-10D6A0234732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500AB5DD-C1B2-429F-A3FD-10D6A0234732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9C7C33C-4FD6-49D7-9594-F7852C315D57} = {AA4367DD-32A1-4DE1-BA3D-D0EF053BCF14}
+		{DDFBF119-5343-4CAF-8FED-C05EF9B3D638} = {AA4367DD-32A1-4DE1-BA3D-D0EF053BCF14}
+		{500AB5DD-C1B2-429F-A3FD-10D6A0234732} = {13B9F750-2E3A-4739-93B8-301F72BB9EAB}
+	EndGlobalSection
+EndGlobal

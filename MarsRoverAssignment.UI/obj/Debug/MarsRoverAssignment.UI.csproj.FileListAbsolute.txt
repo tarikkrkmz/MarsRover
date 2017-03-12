@@ -1,0 +1,9 @@
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\bin\Debug\MarsRoverAssignment.UI.exe.config
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\bin\Debug\MarsRoverAssignment.UI.exe
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\bin\Debug\MarsRoverAssignment.UI.pdb
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\bin\Debug\MarsRoverAssignment.Domain.dll
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\bin\Debug\Ensure.That.dll
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\bin\Debug\MarsRoverAssignment.Domain.pdb
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\obj\Debug\MarsRoverAssignment.UI.csprojResolveAssemblyReference.cache
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\obj\Debug\MarsRoverAssignment.UI.exe
+C:\Users\tarik.korkmaz\Desktop\MarsRoverAssignment\MarsRoverAssignment.UI\obj\Debug\MarsRoverAssignment.UI.pdb
